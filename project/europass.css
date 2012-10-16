@@ -1,0 +1,21 @@
+body{
+width:90%;
+height:90%;
+position:absolute;
+font-family:Times, serif;}
+
+#page_wrap{
+display:none;}
+
+#rows{
+width:250px;
+border-right:2px solid black;
+padding:0px 10px 5px 0px;}
+
+#column {
+	width: 670px;
+	text-align: left;
+	padding:0px 0px 4px 10px;	}
+	
+#img{
+text-align:centre;}

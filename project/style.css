@@ -1,0 +1,76 @@
+*{margin:0; padding=0;}
+
+#europass{display:none;}
+body { 
+width:90%;
+height:90%;
+position:absolute;	
+font: 16px Helvetica, Sans-Serif; 
+line-height: 24px; }
+
+dd.clear{clear:both;}
+
+#barcode{display:none;}
+
+#page_wrap{ 
+width:800px;
+margin: 40px auto 60px;}
+
+img{
+position:relative;
+top:-80px;
+left:500px;
+margin: -30px 0 0 0;
+border: 1px; 
+max-width: 100%; }
+
+h1{
+margin: 0 0 16px 0;
+padding: 0 0 16px 0;
+font-size:50px;
+letter-spacing: -4px;
+border-bottom: 2px solid grey;
+font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif;}
+
+h2 { 
+font-size: 25px; 
+margin: 0 0 6px 0; 
+position: relative;
+font-family: "Trebuchet MS", Verdana, Arial, sans-serif; }
+
+#main_body{
+position:relative;
+top:10px;}
+
+p { 
+margin: 0 0 16px 0; }
+
+a.email{
+color: grey;
+text-decoration:none;}
+
+ul { 
+ margin: 5px 5px 30px 10px; }
+ 
+dt { font-style: italic;
+ font-weight: bold; 
+ font-size: 18px; 
+ text-align: right; 
+ padding: 0 26px 0 0; 
+ width: 150px; 
+ float: left; 
+ height: 50px; 
+ border-right: 1px solid grey;  }
+ 
+ dd { 
+ width: 600px; 
+ float: right; }
+ 
+ dd.clear { 
+ float: none; 
+ margin: 0; 
+ height: 10px; }
+ 
+ small span{
+ font-size:120%;
+ font-family: "Balthazar", "Droid Serif"}
